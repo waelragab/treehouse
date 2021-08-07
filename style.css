@@ -1,10 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 body{
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
 }
 ul{
@@ -82,6 +83,7 @@ header nav .fas{
 }
 header nav ul a{
     font-size: 14px;
+    font-weight: 600;
     color: #333;
     text-transform: uppercase;
     transition: all 0.2s ease-in-out;
@@ -568,6 +570,9 @@ header nav ul a:hover::after{
 }
 .btn-primary{
     transform: scale(0.8);
+}
+.services-container {
+    padding: 50px 10px;
 }
 .services-container .services{
     display: grid;
