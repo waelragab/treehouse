@@ -1,0 +1,5 @@
+[2021-8-6 22:31:58] layer "Tuts+": Expected end of input but "+" found.
+[2021-8-6 22:31:58] layer "hello@treehouse.com": Unsupported extension: com
+[2021-8-6 22:31:58] layer "Google+": Expected end of input but "+" found.
+[2021-8-6 22:31:58] layer "© Copyright 2014 FreebiesXpress.com": Unsupported extension: com
+[2021-8-6 22:31:58] layer "Google+": Expected end of input but "+" found.
